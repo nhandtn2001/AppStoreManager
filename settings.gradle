@@ -1,0 +1,2 @@
+rootProject.name = "App_store_manager"
+include ':app'
